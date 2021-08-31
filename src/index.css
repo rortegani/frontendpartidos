@@ -1,0 +1,62 @@
+
+.margen-b{
+    margin-bottom: 16px;
+}
+
+.margen-t{
+    margin-top: 16px;
+}
+
+.margen-e{
+    margin-right: 8px;
+}
+
+.mi-badge-jugado{
+    padding: 8px !important;
+    background-color: #28a745;
+}
+
+.mi-badge-pendiente{
+    padding: 8px !important;
+    background-color: #6c757d;
+}
+
+.mi-badge-marcador{
+    padding: 8px !important;
+    background-color: rgb(66, 61, 61);
+    margin-left: 8px;
+    margin-right: 8px;
+}
+
+.mi-jumbotron{
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.mi-card{
+    display: flex;
+    justify-content: space-between;
+}
+
+.img-partidos-vacio{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.img-partidos-vacio div{
+    width: 300px;    
+    text-align: center;
+}
+
+.img-partidos-vacio object{
+    width: 70%;
+}
+
+.img-partidos-vacio p{
+    color: #ccc;
+    font-size: 16px;
+    font-weight: 700;
+}
+
